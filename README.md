@@ -5,3 +5,5 @@ A set of R script files for calculating agreement measures when SNOMED CT codes 
 These script files make use of the agreement functions provided by Kilem Gwet: http://www.agreestat.com/r_functions.html
 
 The script requires access to some database containing a transitive closure table including descendants count.
+
+An example of use from the SNOMED Expo 2016 is available.
